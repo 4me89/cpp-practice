@@ -1,4 +1,4 @@
-*.exe
-*.o
-*.out
-.vscode/
+# only track the matrix program
+*
+!.gitignore
+!matrixLearnCpp.cpp
